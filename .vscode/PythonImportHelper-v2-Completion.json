@@ -1,0 +1,1210 @@
+[
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "ipaddress",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ipaddress",
+        "description": "ipaddress",
+        "detail": "ipaddress",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QCheckBox",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTreeWidget",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTreeWidgetItem",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QInputDialog",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDialog",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTextBrowser",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBar",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMessageBox",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMenu",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGraphicsView",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGraphicsScene",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QListWidget",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QListWidgetItem",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Signal",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QPropertyAnimation",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QRectF",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QAction",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPen",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QKeySequence",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "srp",
+        "importPath": "scapy.all",
+        "description": "scapy.all",
+        "isExtraImport": true,
+        "detail": "scapy.all",
+        "documentation": {}
+    },
+    {
+        "label": "ARP",
+        "importPath": "scapy.all",
+        "description": "scapy.all",
+        "isExtraImport": true,
+        "detail": "scapy.all",
+        "documentation": {}
+    },
+    {
+        "label": "sr1",
+        "importPath": "scapy.all",
+        "description": "scapy.all",
+        "isExtraImport": true,
+        "detail": "scapy.all",
+        "documentation": {}
+    },
+    {
+        "label": "IP",
+        "importPath": "scapy.all",
+        "description": "scapy.all",
+        "isExtraImport": true,
+        "detail": "scapy.all",
+        "documentation": {}
+    },
+    {
+        "label": "TCP",
+        "importPath": "scapy.all",
+        "description": "scapy.all",
+        "isExtraImport": true,
+        "detail": "scapy.all",
+        "documentation": {}
+    },
+    {
+        "label": "dns.resolver",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dns.resolver",
+        "description": "dns.resolver",
+        "detail": "dns.resolver",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "networkx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "networkx",
+        "description": "networkx",
+        "detail": "networkx",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectHandler",
+        "importPath": "netmiko",
+        "description": "netmiko",
+        "isExtraImport": true,
+        "detail": "netmiko",
+        "documentation": {}
+    },
+    {
+        "label": "napalm",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "napalm",
+        "description": "napalm",
+        "detail": "napalm",
+        "documentation": {}
+    },
+    {
+        "label": "pexpect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pexpect",
+        "description": "pexpect",
+        "detail": "pexpect",
+        "documentation": {}
+    },
+    {
+        "label": "pyshark",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyshark",
+        "description": "pyshark",
+        "detail": "pyshark",
+        "documentation": {}
+    },
+    {
+        "label": "igraph",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "igraph",
+        "description": "igraph",
+        "detail": "igraph",
+        "documentation": {}
+    },
+    {
+        "label": "paramiko",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "paramiko",
+        "description": "paramiko",
+        "detail": "paramiko",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "netifaces",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "netifaces",
+        "description": "netifaces",
+        "detail": "netifaces",
+        "documentation": {}
+    },
+    {
+        "label": "speedtest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "speedtest",
+        "description": "speedtest",
+        "detail": "speedtest",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "FigureCanvasQTAgg",
+        "importPath": "matplotlib.backends.backend_qt5agg",
+        "description": "matplotlib.backends.backend_qt5agg",
+        "isExtraImport": true,
+        "detail": "matplotlib.backends.backend_qt5agg",
+        "documentation": {}
+    },
+    {
+        "label": "Figure",
+        "importPath": "matplotlib.figure",
+        "description": "matplotlib.figure",
+        "isExtraImport": true,
+        "detail": "matplotlib.figure",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "IsolationForest",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Network",
+        "importPath": "pyvis.network",
+        "description": "pyvis.network",
+        "isExtraImport": true,
+        "detail": "pyvis.network",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "nltk.tokenize",
+        "description": "nltk.tokenize",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize",
+        "documentation": {}
+    },
+    {
+        "label": "speech_recognition",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "speech_recognition",
+        "description": "speech_recognition",
+        "detail": "speech_recognition",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertForSequenceClassification",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "AITrainer",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class AITrainer(QThread):\n    progress = Signal(str)\n    finished = Signal(str)\n    def __init__(self, mode, network=None, ports=None):\n        super().__init__()\n        self.mode = mode\n        self.network = network\n        self.ports = ports if ports else COMMON_PORTS.values()\n    def run(self):\n        self.progress.emit(\"Starting AI training...\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "AIPredictor",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class AIPredictor(QThread):\n    result = Signal(list)\n    finished = Signal()\n    def __init__(self, devices):\n        super().__init__()\n        self.devices = devices\n    def run(self):\n        if not os.path.exists(AI_MODEL_FILE):\n            self.result.emit([{\"ip\": d[\"ip\"], \"prediction\": \"Model not trained\"} for d in self.devices])\n            self.finished.emit()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "AIAnomalyDetector",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class AIAnomalyDetector(QThread):\n    anomaly_detected = Signal(list)\n    finished = Signal()\n    def __init__(self, devices):\n        super().__init__()\n        self.devices = devices\n        self.model = None\n        if os.path.exists(\"anomaly_detector.pkl\"):\n            self.model = pickle.load(open(\"anomaly_detector.pkl\", \"rb\"))\n    def run(self):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "AIPerformancePredictor",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class AIPerformancePredictor(QThread):\n    prediction = Signal(list)\n    finished = Signal()\n    def __init__(self, history):\n        super().__init__()\n        self.history = history\n        self.model = None\n        if os.path.exists(\"performance_predictor.pkl\"):\n            self.model = pickle.load(open(\"performance_predictor.pkl\", \"rb\"))\n    def run(self):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ScanThread",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class ScanThread(QThread):\n    update_progress = Signal(int, int)\n    result = Signal(list)\n    finished = Signal()\n    def __init__(self, network, ports):\n        super().__init__()\n        self.network = network\n        self.ports = ports\n    def run(self):\n        iface = None",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "MonitorThread",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class MonitorThread(QThread):\n    update_devices = Signal(list)\n    finished = Signal()\n    def __init__(self, devices):\n        super().__init__()\n        self.devices = devices\n        self.running = True\n    def run(self):\n        while self.running:\n            for i, device in enumerate(self.devices):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "NetworkToolThread",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class NetworkToolThread(QThread):\n    result = Signal(str, str, str)\n    finished = Signal()\n    def __init__(self, tool, ip, username, password, *args):\n        super().__init__()\n        self.tool = tool\n        self.ip = ip\n        self.username = username\n        self.password = password\n        self.args = args",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "TrafficVisualizerThread",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class TrafficVisualizerThread(QThread):\n    update_traffic = Signal(list)\n    finished = Signal()\n    def __init__(self, interface):\n        super().__init__()\n        self.interface = interface\n        self.running = True\n    def run(self):\n        while self.running:\n            packets = pyshark_capture(self.interface, count=50)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "TrafficVisualizer",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class TrafficVisualizer(QDialog):\n    def __init__(self, parent=None):\n        super().__init__(parent)\n        self.setWindowTitle(\"Network Traffic Visualizer\")\n        self.setGeometry(200, 200, 600, 400)\n        self.setStyleSheet(\"background-color: #1e1e1e;\")\n        layout = QVBoxLayout()\n        self.scene = QGraphicsScene()\n        self.view = QGraphicsView(self.scene)\n        self.view.setStyleSheet(\"background-color: #2e2e2e; border: none;\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "SpeedTestUI",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class SpeedTestUI(QDialog):\n    def __init__(self, parent=None):\n        super().__init__(parent)\n        self.setWindowTitle(\"Speed Test\")\n        self.setGeometry(300, 300, 300, 200)\n        self.setStyleSheet(\"background-color: #1e1e1e; color: #ffffff;\")\n        layout = QVBoxLayout()\n        self.result_label = QLabel(\"Press Start to test network speed\")\n        layout.addWidget(self.result_label)\n        self.start_btn = QPushButton(\"Start Test\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "AITrainingUI",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class AITrainingUI(QDialog):\n    def __init__(self, parent=None):\n        super().__init__(parent)\n        self.setWindowTitle(\"Train AI Model\")\n        self.setGeometry(300, 300, 500, 400)\n        self.setStyleSheet(\"background-color: #1e1e1e; color: #ffffff;\")\n        layout = QVBoxLayout()\n        self.mode_combo = QComboBox()\n        self.mode_combo.addItems(\n            [\"Rescan Network\", \"Ping Monitored Devices\", \"Load History\", \"Manual Input\"]",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "AIInsightsUI",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class AIInsightsUI(QDialog):\n    def __init__(self, results, parent=None):\n        super().__init__(parent)\n        self.setWindowTitle(\"AI Device Insights\")\n        self.setGeometry(300, 300, 400, 300)\n        self.setStyleSheet(\"background-color: #1e1e1e; color: #ffffff;\")\n        layout = QVBoxLayout()\n        self.results = results\n        self.text_browser = QTextBrowser()\n        layout.addWidget(self.text_browser)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "NetworkMapExportUI",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class NetworkMapExportUI(QDialog):\n    def __init__(self, results, parent=None):\n        super().__init__(parent)\n        self.setWindowTitle(\"Network Map Export\")\n        self.setGeometry(300, 300, 300, 200)\n        self.setStyleSheet(\"background-color: #1e1e1e; color: #ffffff;\")\n        layout = QVBoxLayout()\n        self.results = results\n        self.format_combo = QComboBox()\n        self.format_combo.addItems([\"PNG (Static)\", \"HTML (Interactive)\"])",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "StartupDialog",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class StartupDialog(QDialog):\n    def __init__(self):\n        super().__init__()\n        self.setWindowTitle(\"Network Scanner\")\n        self.setGeometry(300, 300, 300, 200)\n        self.setStyleSheet(\n            \"background-color: #2e2e2e; color: #ffffff; font-size: 16px;\"\n        )\n        layout = QVBoxLayout()\n        title = QLabel(\"Welcome to the Network Scanner!\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "MonitoredDevicesUI",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class MonitoredDevicesUI(QMainWindow):\n    def __init__(self):\n        super().__init__()\n        self.setWindowTitle(\"Monitored Devices\")\n        self.setGeometry(100, 100, 800, 600)\n        self.setStyleSheet(\"background-color: #1e1e1e; color: #ffffff;\")\n        self.monitored_devices = load_monitored()\n        self.monitor_thread = None\n        main_widget = QWidget()\n        self.setCentralWidget(main_widget)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "SwissArmyKnifeUI",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class SwissArmyKnifeUI(QMainWindow):\n    def __init__(self):\n        super().__init__()\n        self.setWindowTitle(\"Swiss Army Knife Scanner\")\n        self.setGeometry(100, 100, 900, 700)\n        self.setStyleSheet(\"background-color: #1e1e1e; color: #ffffff;\")\n        self.custom_ports = {}\n        self.selected_ports = []\n        self.config = load_config()\n        self.scan_thread = None",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "NetworkStatsDialog",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class NetworkStatsDialog(QDialog):\n    def __init__(self, ping_data, parent=None):\n        super().__init__(parent)\n        self.setWindowTitle(\"Network Statistics - Ping Distribution\")\n        self.setGeometry(300, 300, 600, 400)\n        self.setStyleSheet(\"background-color: #1e1e1e; color: #ffffff;\")\n        layout = QVBoxLayout()\n        # Create matplotlib figure and canvas\n        self.figure = Figure(figsize=(5, 4), dpi=100)\n        self.canvas = FigureCanvas(self.figure)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "SSHSLM",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class SSHSLM:\n    def __init__(self):\n        self.tokenizer = None\n        self.model = None\n        self.history = []\n        self.load_model()\n    def load_model(self):\n        if not self.tokenizer or not self.model:\n            self.tokenizer = DistilBertTokenizer.from_pretrained(\n                \"distilbert-base-uncased\"",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "install_requirements",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def install_requirements(verbose=False):\n    packages = [\n        \"paramiko\", \"netifaces\", \"PySide6\", \"scapy\", \"dnspython\", \"pandas\", \"networkx\",\n        \"netmiko\", \"napalm\", \"requests\", \"pexpect\", \"pyshark\", \"python-igraph\",\n        \"speedtest-cli\", \"matplotlib\", \"scikit-learn\", \"pyvis\", \"nltk\", \"SpeechRecognition\", \"pyaudio\", \"transformers\", \"torch\"\n    ]\n    success = True\n    for pkg in packages:\n        try:\n            __import__(pkg.split(\"-\")[0])",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "verify_imports",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def verify_imports():\n    packages = {\n        \"paramiko\": \"paramiko\",\n        \"netifaces\": \"netifaces\",\n        \"PySide6\": \"PySide6\",\n        \"scapy\": \"scapy\",\n        \"dnspython\": \"dns\",\n        \"pandas\": \"pandas\",\n        \"networkx\": \"networkx\",\n        \"netmiko\": \"netmiko\",",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def load_config():\n    if os.path.exists(CONFIG_FILE):\n        with open(CONFIG_FILE, \"r\") as f:\n            return json.load(f)\n    return DEFAULT_CONFIG\ndef save_config(config):\n    with open(CONFIG_FILE, \"w\") as f:\n        json.dump(config, f, indent=4)\ndef load_monitored():\n    if os.path.exists(MONITORED_FILE):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "save_config",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def save_config(config):\n    with open(CONFIG_FILE, \"w\") as f:\n        json.dump(config, f, indent=4)\ndef load_monitored():\n    if os.path.exists(MONITORED_FILE):\n        with open(MONITORED_FILE, \"r\") as f:\n            return json.load(f)\n    return []\ndef save_monitored(devices):\n    with open(MONITORED_FILE, \"w\") as f:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "load_monitored",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def load_monitored():\n    if os.path.exists(MONITORED_FILE):\n        with open(MONITORED_FILE, \"r\") as f:\n            return json.load(f)\n    return []\ndef save_monitored(devices):\n    with open(MONITORED_FILE, \"w\") as f:\n        json.dump(devices, f, indent=4)\ndef is_local_ip(ip, networks):\n    target = ipaddress.ip_address(ip)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "save_monitored",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def save_monitored(devices):\n    with open(MONITORED_FILE, \"w\") as f:\n        json.dump(devices, f, indent=4)\ndef is_local_ip(ip, networks):\n    target = ipaddress.ip_address(ip)\n    return any(target in ipaddress.ip_network(net) for _, _, net in networks)\ndef arp_request(ip, iface=None):\n    try:\n        if iface is None:\n            iface = netifaces.gateways()[\"default\"][netifaces.AF_INET][1]",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "is_local_ip",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def is_local_ip(ip, networks):\n    target = ipaddress.ip_address(ip)\n    return any(target in ipaddress.ip_network(net) for _, _, net in networks)\ndef arp_request(ip, iface=None):\n    try:\n        if iface is None:\n            iface = netifaces.gateways()[\"default\"][netifaces.AF_INET][1]\n        arp_packet = ARP(pdst=ip)\n        answer = srp(arp_packet, timeout=2, verbose=0, iface=iface)[0]\n        return answer[0][1].hwsrc if answer else None",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "arp_request",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def arp_request(ip, iface=None):\n    try:\n        if iface is None:\n            iface = netifaces.gateways()[\"default\"][netifaces.AF_INET][1]\n        arp_packet = ARP(pdst=ip)\n        answer = srp(arp_packet, timeout=2, verbose=0, iface=iface)[0]\n        return answer[0][1].hwsrc if answer else None\n    except (KeyError, IndexError, Exception) as e:\n        logging.error(f\"Scapy ARP failed for {ip}: {e}\")\n        return None",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "nmap_mac_scan",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def nmap_mac_scan(ip):\n    try:\n        result = subprocess.check_output([\"nmap\", \"-sn\", ip], text=True, stderr=subprocess.STDOUT)\n        mac_match = re.search(r\"MAC Address: ([0-9A-F:]+) \\((.+?)\\)\", result)\n        if mac_match:\n            mac, vendor = mac_match.groups()\n            return {\"mac\": mac, \"vendor\": vendor}\n        return None\n    except subprocess.CalledProcessError as e:\n        logging.error(f\"Nmap failed for {ip}: {e.output}\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "arp_table_lookup",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def arp_table_lookup(ip):\n    try:\n        cmd = \"arp -a\" if os.name == \"nt\" else \"ip -s neigh\"\n        result = subprocess.check_output(cmd, shell=True, text=True)\n        for line in result.splitlines():\n            if ip in line:\n                mac = re.search(r\"([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})\", line)\n                if mac:\n                    return {\"mac\": mac.group(0).replace(\"-\", \":\"), \"vendor\": \"Unknown\"}\n        return None",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "pyshark_mac_sniff",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def pyshark_mac_sniff(ip, interface=None, timeout=5):\n    try:\n        if not interface:\n            interface = netifaces.gateways()[\"default\"][netifaces.AF_INET][1]\n        capture = pyshark.LiveCapture(interface=interface, bpf_filter=f\"host {ip}\")\n        for packet in capture.sniff_continuously(timeout=timeout):\n            if \"eth\" in packet and packet.ip.src == ip:\n                return {\"mac\": packet.eth.src, \"vendor\": \"Unknown\"}\n        return None\n    except Exception as e:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_vendor",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_vendor(mac):\n    try:\n        response = requests.get(f\"https://api.macvendors.com/{mac}\", timeout=5)\n        return response.text if response.status_code == 200 else \"Unknown\"\n    except Exception as e:\n        logging.error(f\"Vendor lookup failed for {mac}: {e}\")\n        return \"Unknown\"\ndef smart_mac_lookup(ip, iface=None, timeout=5):\n    local_networks = [(i, a[\"addr\"], str(ipaddress.IPv4Network(f\"{a['addr']}/{a['netmask']}\", strict=False)))\n                      for i in netifaces.interfaces() for a in netifaces.ifaddresses(i).get(netifaces.AF_INET, [])]",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "smart_mac_lookup",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def smart_mac_lookup(ip, iface=None, timeout=5):\n    local_networks = [(i, a[\"addr\"], str(ipaddress.IPv4Network(f\"{a['addr']}/{a['netmask']}\", strict=False)))\n                      for i in netifaces.interfaces() for a in netifaces.ifaddresses(i).get(netifaces.AF_INET, [])]\n    if not is_local_ip(ip, local_networks):\n        logging.info(f\"Skipping MAC lookup for non-local IP: {ip}\")\n        return None\n    for method in [arp_table_lookup, nmap_mac_scan, lambda x: {\"mac\": arp_request(x, iface), \"vendor\": \"Unknown\"}, pyshark_mac_sniff]:\n        result = method(ip) if method != pyshark_mac_sniff else method(ip, iface, timeout)\n        if result:\n            if \"vendor\" not in result or result[\"vendor\"] == \"Unknown\":",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "scan_ip",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def scan_ip(ip, ports, iface=None):\n    open_ports = []\n    packet_count = 0\n    for port in ports:\n        try:\n            pkt = IP(dst=ip) / TCP(dport=port, flags=\"S\")\n            response = sr1(pkt, timeout=1, verbose=0, iface=iface)\n            packet_count += 1\n            if response and response.haslayer(TCP) and response[TCP].flags == 0x12:\n                open_ports.append(port)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_hostname",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_hostname(ip):\n    try:\n        return dns.resolver.resolve_address(ip)[0].to_text()\n    except Exception:\n        return ip\ndef ping_device(ip):\n    try:\n        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n        sock.settimeout(2)\n        start = time.time()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ping_device",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def ping_device(ip):\n    try:\n        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n        sock.settimeout(2)\n        start = time.time()\n        result = sock.connect_ex((ip, 22))\n        duration = (time.time() - start) * 1000\n        sock.close()\n        return {\n            \"ip\": ip, \"status\": \"up\" if result == 0 else \"down\", \"ping\": f\"{duration:.2f}ms\",",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "paramiko_ssh",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def paramiko_ssh(ip, username, password, command=\"uptime\"):\n    try:\n        client = paramiko.SSHClient()\n        client.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n        client.connect(ip, username=username, password=password, timeout=5)\n        stdin, stdout, stderr = client.exec_command(command)\n        output = stdout.read().decode()\n        client.close()\n        # SLM processing\n        load_state = slm.process_output(command, output) if output else 0",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "netmiko_ssh",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def netmiko_ssh(ip, username, password, command=\"show version\"):\n    try:\n        device = {\"device_type\": \"cisco_ios\", \"ip\": ip, \"username\": username, \"password\": password}\n        connection = ConnectHandler(**device)\n        output = connection.send_command(command)\n        connection.disconnect()\n        return output\n    except Exception as e:\n        return str(e)\ndef pexpect_ssh(ip, username, password, command=\"uptime\"):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "pexpect_ssh",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def pexpect_ssh(ip, username, password, command=\"uptime\"):\n    try:\n        ssh = pexpect.spawn(f\"ssh {username}@{ip}\", timeout=5)\n        ssh.expect(\"password:\")\n        ssh.sendline(password)\n        ssh.expect(\".*#|.*$\")\n        ssh.sendline(command)\n        ssh.expect(\".*#|.*$\")\n        output = ssh.before.decode()\n        ssh.sendline(\"exit\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "napalm_query",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def napalm_query(ip, username, password):\n    try:\n        driver = napalm.get_network_driver(\"ios\")\n        device = driver(ip, username, password)\n        device.open()\n        facts = device.get_facts()\n        device.close()\n        return facts\n    except Exception as e:\n        return {\"error\": str(e)}",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "pyshark_capture",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def pyshark_capture(interface, count=10):\n    try:\n        capture = pyshark.LiveCapture(interface=interface)\n        packets = [pkt for pkt in capture.sniff_continuously(packet_count=count)]\n        return [{\"src\": pkt.ip.src, \"dst\": pkt.ip.dst, \"proto\": pkt.highest_layer} for pkt in packets if \"ip\" in pkt]\n    except Exception as e:\n        return str(e)\ndef http_request(url):\n    try:\n        response = requests.get(url, timeout=5)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "http_request",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def http_request(url):\n    try:\n        response = requests.get(url, timeout=5)\n        return response.text if response.status_code == 200 else \"Error\"\n    except Exception as e:\n        return str(e)\ndef run_speed_test():\n    try:\n        st = speedtest.Speedtest()\n        st.get_best_server()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "run_speed_test",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def run_speed_test():\n    try:\n        st = speedtest.Speedtest()\n        st.get_best_server()\n        download = st.download() / 1_000_000\n        upload = st.upload() / 1_000_000\n        ping = st.results.ping\n        return {\"download\": download, \"upload\": upload, \"ping\": ping}\n    except Exception as e:\n        return str(e)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_mac_vendor",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_mac_vendor(mac):\n    oui = mac[:8].upper() if mac else \"00:00:00\"\n    vendor_map = {\"00:14:22\": \"Cisco\", \"00:16:17\": \"Dell\", \"00:18:F3\": \"HP\", \"B8:27:EB\": \"RaspberryPi\"}\n    return vendor_map.get(oui, \"Unknown\")\n# AI Classes\nclass AITrainer(QThread):\n    progress = Signal(str)\n    finished = Signal(str)\n    def __init__(self, mode, network=None, ports=None):\n        super().__init__()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "train_ai_model",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def train_ai_model(df):\n    X = df[[\"Port_Count\", \"Hostname_Router\", \"Ping\"]]\n    X = pd.get_dummies(X.join(df[\"MAC_Vendor\"]), columns=[\"MAC_Vendor\"])\n    y = df[\"Device_Type\"]\n    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n    clf = RandomForestClassifier(n_estimators=100, random_state=42)\n    clf.fit(X_train, y_train)\n    y_pred = clf.predict(X_test)\n    report = classification_report(y_test, y_pred, zero_division=0)\n    with open(AI_MODEL_FILE, \"wb\") as f:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "save_to_history",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def save_to_history(network, results):\n    timestamp = datetime.now().isoformat()\n    entry = {\"timestamp\": timestamp, \"network\": network, \"results\": results}\n    history = load_history()\n    history.append(entry)\n    with open(HISTORY_FILE, \"w\") as f:\n        json.dump(history, f, indent=4)\ndef load_history():\n    if not os.path.exists(HISTORY_FILE):\n        return []",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "load_history",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def load_history():\n    if not os.path.exists(HISTORY_FILE):\n        return []\n    with open(HISTORY_FILE, \"r\") as f:\n        return json.load(f)\ndef build_networkx_graph(results):\n    G = nx.Graph()\n    for device in results:\n        G.add_node(device[\"ip\"], hostname=device[\"hostname\"])\n        for port in device[\"ports\"]:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "build_networkx_graph",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def build_networkx_graph(results):\n    G = nx.Graph()\n    for device in results:\n        G.add_node(device[\"ip\"], hostname=device[\"hostname\"])\n        for port in device[\"ports\"]:\n            G.add_edge(device[\"ip\"], f\"{device['ip']}:{port}\")\n    nx.write_gml(G, GRAPH_FILE)\n    return G\ndef build_igraph_graph(results):\n    G = ig.Graph()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "build_igraph_graph",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def build_igraph_graph(results):\n    G = ig.Graph()\n    nodes = {device[\"ip\"]: i for i, device in enumerate(results)}\n    G.add_vertices(len(results))\n    for i, device in enumerate(results):\n        G.vs[i][\"ip\"] = device[\"ip\"]\n        G.vs[i][\"hostname\"] = device[\"hostname\"]\n        for port in device[\"ports\"]:\n            G.add_edge(nodes[device[\"ip\"]], nodes[device[\"ip\"]], port=port)\n    G.write_gml(GRAPH_FILE.replace(\".gml\", \"_igraph.gml\"))",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "parse_command",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def parse_command(command):\n    tokens = word_tokenize(command.lower())\n    if \"scan\" in tokens:\n        for token in tokens:\n            try:\n                ipaddress.IPv4Network(token)\n                return {\"action\": \"scan\", \"network\": token}\n            except ValueError:\n                continue\n    elif \"predict\" in tokens and \"performance\" in tokens:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Network Scanner Tool\")\n    parser.add_argument(\"--verbose\", action=\"store_true\", help=\"Verbose output\")\n    args = parser.parse_args()\n    if not install_requirements(verbose=args.verbose):\n        print(\"Some packages failed to install. Continuing anyway...\")\n    if not verify_imports():\n        print(\"Some imports failed. Functionality may be limited.\")\n    app = QApplication(sys.argv)\n    dialog = StartupDialog()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PORTS",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "DEFAULT_PORTS = [22, 80, 443, 161]\nDEFAULT_CONFIG = {\n    \"default_ports\": DEFAULT_PORTS, \"saved_macs\": [], \"http_api\": \"http://example.com/api\", \"whitelist\": []\n}\nHISTORY_FILE = \"network_scan_history.json\"\nCONFIG_FILE = \"scanner_config.json\"\nMONITORED_FILE = \"monitored_devices.json\"\nLOG_FILE = \"scanner.log\"\nGRAPH_FILE = \"network_graph.gml\"\nAI_MODEL_FILE = \"device_classifier.pkl\"",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CONFIG",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "DEFAULT_CONFIG = {\n    \"default_ports\": DEFAULT_PORTS, \"saved_macs\": [], \"http_api\": \"http://example.com/api\", \"whitelist\": []\n}\nHISTORY_FILE = \"network_scan_history.json\"\nCONFIG_FILE = \"scanner_config.json\"\nMONITORED_FILE = \"monitored_devices.json\"\nLOG_FILE = \"scanner.log\"\nGRAPH_FILE = \"network_graph.gml\"\nAI_MODEL_FILE = \"device_classifier.pkl\"\nAI_DATASET_FILE = \"ai_dataset.csv\"",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "HISTORY_FILE",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "HISTORY_FILE = \"network_scan_history.json\"\nCONFIG_FILE = \"scanner_config.json\"\nMONITORED_FILE = \"monitored_devices.json\"\nLOG_FILE = \"scanner.log\"\nGRAPH_FILE = \"network_graph.gml\"\nAI_MODEL_FILE = \"device_classifier.pkl\"\nAI_DATASET_FILE = \"ai_dataset.csv\"\nCOMMON_PORTS = {\n    \"SSH\": 22, \"HTTP\": 80, \"HTTPS\": 443, \"FTP\": 21, \"Telnet\": 23,\n    \"SMTP\": 25, \"DNS\": 53, \"MySQL\": 3306, \"RDP\": 3389, \"SNMP\": 161",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_FILE",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "CONFIG_FILE = \"scanner_config.json\"\nMONITORED_FILE = \"monitored_devices.json\"\nLOG_FILE = \"scanner.log\"\nGRAPH_FILE = \"network_graph.gml\"\nAI_MODEL_FILE = \"device_classifier.pkl\"\nAI_DATASET_FILE = \"ai_dataset.csv\"\nCOMMON_PORTS = {\n    \"SSH\": 22, \"HTTP\": 80, \"HTTPS\": 443, \"FTP\": 21, \"Telnet\": 23,\n    \"SMTP\": 25, \"DNS\": 53, \"MySQL\": 3306, \"RDP\": 3389, \"SNMP\": 161\n}",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "MONITORED_FILE",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "MONITORED_FILE = \"monitored_devices.json\"\nLOG_FILE = \"scanner.log\"\nGRAPH_FILE = \"network_graph.gml\"\nAI_MODEL_FILE = \"device_classifier.pkl\"\nAI_DATASET_FILE = \"ai_dataset.csv\"\nCOMMON_PORTS = {\n    \"SSH\": 22, \"HTTP\": 80, \"HTTPS\": 443, \"FTP\": 21, \"Telnet\": 23,\n    \"SMTP\": 25, \"DNS\": 53, \"MySQL\": 3306, \"RDP\": 3389, \"SNMP\": 161\n}\n# Setup logging",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_FILE",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "LOG_FILE = \"scanner.log\"\nGRAPH_FILE = \"network_graph.gml\"\nAI_MODEL_FILE = \"device_classifier.pkl\"\nAI_DATASET_FILE = \"ai_dataset.csv\"\nCOMMON_PORTS = {\n    \"SSH\": 22, \"HTTP\": 80, \"HTTPS\": 443, \"FTP\": 21, \"Telnet\": 23,\n    \"SMTP\": 25, \"DNS\": 53, \"MySQL\": 3306, \"RDP\": 3389, \"SNMP\": 161\n}\n# Setup logging\nlogging.basicConfig(filename=LOG_FILE, level=logging.INFO, format=\"%(asctime)s - %(levelname)s - %(message)s\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "GRAPH_FILE",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "GRAPH_FILE = \"network_graph.gml\"\nAI_MODEL_FILE = \"device_classifier.pkl\"\nAI_DATASET_FILE = \"ai_dataset.csv\"\nCOMMON_PORTS = {\n    \"SSH\": 22, \"HTTP\": 80, \"HTTPS\": 443, \"FTP\": 21, \"Telnet\": 23,\n    \"SMTP\": 25, \"DNS\": 53, \"MySQL\": 3306, \"RDP\": 3389, \"SNMP\": 161\n}\n# Setup logging\nlogging.basicConfig(filename=LOG_FILE, level=logging.INFO, format=\"%(asctime)s - %(levelname)s - %(message)s\")\n# Utility Functions",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "AI_MODEL_FILE",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "AI_MODEL_FILE = \"device_classifier.pkl\"\nAI_DATASET_FILE = \"ai_dataset.csv\"\nCOMMON_PORTS = {\n    \"SSH\": 22, \"HTTP\": 80, \"HTTPS\": 443, \"FTP\": 21, \"Telnet\": 23,\n    \"SMTP\": 25, \"DNS\": 53, \"MySQL\": 3306, \"RDP\": 3389, \"SNMP\": 161\n}\n# Setup logging\nlogging.basicConfig(filename=LOG_FILE, level=logging.INFO, format=\"%(asctime)s - %(levelname)s - %(message)s\")\n# Utility Functions\ndef install_requirements(verbose=False):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "AI_DATASET_FILE",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "AI_DATASET_FILE = \"ai_dataset.csv\"\nCOMMON_PORTS = {\n    \"SSH\": 22, \"HTTP\": 80, \"HTTPS\": 443, \"FTP\": 21, \"Telnet\": 23,\n    \"SMTP\": 25, \"DNS\": 53, \"MySQL\": 3306, \"RDP\": 3389, \"SNMP\": 161\n}\n# Setup logging\nlogging.basicConfig(filename=LOG_FILE, level=logging.INFO, format=\"%(asctime)s - %(levelname)s - %(message)s\")\n# Utility Functions\ndef install_requirements(verbose=False):\n    packages = [",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "COMMON_PORTS",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "COMMON_PORTS = {\n    \"SSH\": 22, \"HTTP\": 80, \"HTTPS\": 443, \"FTP\": 21, \"Telnet\": 23,\n    \"SMTP\": 25, \"DNS\": 53, \"MySQL\": 3306, \"RDP\": 3389, \"SNMP\": 161\n}\n# Setup logging\nlogging.basicConfig(filename=LOG_FILE, level=logging.INFO, format=\"%(asctime)s - %(levelname)s - %(message)s\")\n# Utility Functions\ndef install_requirements(verbose=False):\n    packages = [\n        \"paramiko\", \"netifaces\", \"PySide6\", \"scapy\", \"dnspython\", \"pandas\", \"networkx\",",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "slm",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "slm = SSHSLM()\ndef main():\n    parser = argparse.ArgumentParser(description=\"Network Scanner Tool\")\n    parser.add_argument(\"--verbose\", action=\"store_true\", help=\"Verbose output\")\n    args = parser.parse_args()\n    if not install_requirements(verbose=args.verbose):\n        print(\"Some packages failed to install. Continuing anyway...\")\n    if not verify_imports():\n        print(\"Some imports failed. Functionality may be limited.\")\n    app = QApplication(sys.argv)",
+        "detail": "main",
+        "documentation": {}
+    }
+]
